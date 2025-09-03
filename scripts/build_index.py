@@ -1,8 +1,3 @@
-import os
-# Set API key directly in code for MVP
-os.environ['GEMINI_API_KEY'] = 'AIzaSyD4274nxTy2HR_z6W4KsyQ5_OuKTJaJU68'
-
-
 
 #!/usr/bin/env python3
 """

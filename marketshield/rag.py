@@ -1,9 +1,4 @@
-import os
-# Set API key directly in code for MVP
-os.environ['GEMINI_API_KEY'] = 'AIzaSyD4274nxTy2HR_z6W4KsyQ5_OuKTJaJU68'
 
-import google.generativeai as genai
-import numpy as np
 import google.generativeai as genai
 import numpy as np
 import faiss
