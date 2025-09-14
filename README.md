@@ -3,7 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://https---appcom-swastidip-market-shield-app.streamlit.app/)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.49.1%2B-red)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **Advanced AI-powered fraud prevention system for India's securities market**
 
@@ -103,5 +102,3 @@ MarketShield provides automated fraud detection with:
 - Python 3.12 or higher
 - Git
 - Gemini API key (optional, for RAG features)
-
-
