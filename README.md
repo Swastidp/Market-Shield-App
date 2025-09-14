@@ -1,6 +1,6 @@
 # 🛡️ MarketShield - Securities Market Fraud Detection MVP
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://appcom-swastidip-market-shield-app.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://appcom-swastidip-market-shield-app.streamlit.app)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.49.1%2B-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-**[Try MarketShield Live →](https://appcom-swastidip-market-shield-app.streamlit.app/)**
+**[Try MarketShield Live →](https://appcom-swastidip-market-shield-app.streamlit.app)**
 
 ---
 
